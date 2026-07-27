@@ -1,8 +1,10 @@
 <img src="./banner.jpg" alt="Adityaraj Singh — Software Developer" width="100%" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-adityarajsingh--dev.netlify.app-d9a54f?style=for-the-badge&logo=netlify&logoColor=white)](https://adityarajsingh-dev.netlify.app)
+
 ### Hi, I'm Adityaraj 👋
 
-**SDE 1 @ Docprime (Policybazaar Group)** — full-stack engineer building for the **web and mobile**, from pixel to API.
+**SDE 1 @ Docprime (Policybazaar.com)** — full-stack engineer building for the **web and mobile**, from pixel to API.
 
 ```javascript
 const adityaraj = {
@@ -20,6 +22,12 @@ const adityaraj = {
 - 🏥 Built PB Health's **Self Check-in Kiosk** frontend from scratch and owned the **Inventory Management** module end-to-end — React, TypeScript, Tailwind CSS
 - 💼 Full-stack features for **Policybazaar for Business** (Enrollment) — React, Redux, .NET, MySQL
 - 🏆 Finalist, **Policybazaar Hackathon 3.0** — PII Interceptor
+
+#### 🔨 Building in public
+
+- **[StudyNotion v2](https://github.com/adityarajsingh-git/studynotion-v2)** — ed-tech platform rebuilt from an empty folder. JWT auth with role guards, course catalog with live search, enrollment. TypeScript across the stack.
+- **[DualMind](https://github.com/adityarajsingh-git/dualmind-chatbot)** — dual-mode chatbot: Recruitment Assistant + Employee Help Desk in one interface. React 19 + TypeScript + Vite.
+- **[Portfolio](https://github.com/adityarajsingh-git/portfolio)** — [this site](https://adityarajsingh-dev.netlify.app). AMOLED dark/light themes, scroll-driven 3D, zero libraries.
 
 #### 🛠️ Tech Stack
 
@@ -62,6 +70,7 @@ const adityaraj = {
 
 #### 📫 Let's connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-d9a54f?style=for-the-badge&logo=netlify&logoColor=white)](https://adityarajsingh-dev.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityarajsinghcode/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adityaRajBuilds)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajsingh.code@gmail.com)
