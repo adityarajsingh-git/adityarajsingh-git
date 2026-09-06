@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="Adityaraj Singh — Software Developer" width="100%" />
+<img src="./banner.png" alt="Adityaraj Singh — Full-Stack Developer" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adityarajsingh--dev.netlify.app-d9a54f?style=for-the-badge&logo=netlify&logoColor=white)](https://adityarajsingh-dev.netlify.app)
 
